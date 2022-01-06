@@ -1,6 +1,6 @@
 Main_DZ_BD.java
-db_sqj.java
-db_DZ_BD.java
+db_sql.java
+bd_DZ_BD.java
 .idea/
 mysql-connector-java-8.0.27.tar.gz
 mysql-connector-java-8.0.27
